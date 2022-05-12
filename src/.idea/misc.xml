@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/button_bg.xml" value="0.29074074074074074" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/dialog_audio_note_bg.xml" value="0.29074074074074074" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_baseline_arrow_circle_down_24.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_mic.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_mic_24.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_pause_24.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_play_24.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_stop_24.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/item_audio_note_bg.xml" value="0.2388888888888889" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/layout_audio_note_bg.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/shdow.xml" value="0.3828125" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/activity_main.xml" value="0.24242424242424243" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/audio_note_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/fragment_audio_note_record.xml" value="0.17407407407407408" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/fragment_audio_notes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/fragment_dialog_save_audio.xml" value="0.3706777316735823" />
+        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/item_audio_note.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

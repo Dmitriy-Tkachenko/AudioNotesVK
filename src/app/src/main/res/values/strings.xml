@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AudioNotesVK</string>
+    <string name="btn_record">record</string>
+    <string name="play_audio_note">Play audio note</string>
+    <string name="pause_audio_note">Pause audio note</string>
+    <string name="btn_stop">stop record</string>
+    <string name="btn_save_audio_note">Сохранить</string>
+    <string name="hint_name_audio_note">Название аудиозаметки</string>
+    <string name="btn_cancel_save_audio_note">Отмена</string>
+    <string name="notification_title">Запись</string>
+</resources>
