@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.tkachenko.audionotesvk">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
         tools:ignore="ScopedStorage" />
@@ -14,11 +15,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AudioNotesVK">
+        android:theme="@style/Theme.AudioNotesVK"
+        android:name=".MyApplication">
         <activity
-            android:name=".AudioNotesActivity"
-            android:exported="true"
-            android:launchMode="singleTop">
+            android:name=".views.activities.AuthActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,7 +27,15 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".AudioNotesService"/>
+        <activity
+            android:name=".views.activities.AudioNotesActivity"
+            android:exported="true"
+            android:launchMode="singleTop">
+        </activity>
+
+        <service android:name=".services.AudioNoteRecorderService" android:stopWithTask="false"/>
+        <service android:name=".services.AudioNotePlayerService" android:stopWithTask="false"/>
+        <service android:name=".services.AudioNoteUploaderService" android:stopWithTask="false"/>
     </application>
 
 </manifest>

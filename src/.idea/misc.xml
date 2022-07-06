@@ -3,27 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/button_bg.xml" value="0.29074074074074074" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/dialog_audio_note_bg.xml" value="0.29074074074074074" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_baseline_arrow_circle_down_24.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_mic.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_mic_24.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_pause_24.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_play_24.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/ic_stop_24.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/item_audio_note_bg.xml" value="0.2388888888888889" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/layout_audio_note_bg.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/drawable/shdow.xml" value="0.3828125" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/activity_main.xml" value="0.24242424242424243" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/audio_note_item.xml" value="0.36666666666666664" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/fragment_audio_note_record.xml" value="0.17407407407407408" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/fragment_audio_notes.xml" value="0.36666666666666664" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/fragment_dialog_save_audio.xml" value="0.3706777316735823" />
-        <entry key="..\:/Files/Programing/AndroidStudio/audionotes/AudioNotesVK/app/src/main/res/layout/item_audio_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable-v24/dialog_audio_note_bg.xml" value="0.1" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/button_effect.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/dialog_audio_note_bg.xml" value="0.1" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/gradient.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/ic_baseline_cloud_upload_24.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/ic_baseline_file_upload_24.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/ic_pause_24.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/ic_play_24.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/ic_record_24.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/ic_stop_24.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/ic_upload_24.xml" value="0.2575" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/item_audio_note_bg.xml" value="0.1215" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/drawable/seek.xml" value="0.254" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/font/font.xml" value="0.396875" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout-v31/item_audio_note.xml" value="0.365625" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout/activity_audio_notes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout/activity_auth.xml" value="0.33" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout/auth_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout/fragment_audio_note_record.xml" value="0.36666666666666664" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout/fragment_audio_notes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout/fragment_dialog_save_audio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Files/Programing/AndroidStudio/NewVersion/AudioNotesVK/app/src/main/res/layout/item_audio_note.xml" value="0.5" />
       </map>
     </option>
   </component>

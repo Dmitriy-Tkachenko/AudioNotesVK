@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">AudioNotesVK</string>
+    <integer name="com_vk_sdk_AppId">8200211</integer>
     <string name="btn_record">record</string>
     <string name="play_audio_note">Play audio note</string>
     <string name="pause_audio_note">Pause audio note</string>
@@ -8,4 +9,13 @@
     <string name="hint_name_audio_note">Название аудиозаметки</string>
     <string name="btn_cancel_save_audio_note">Отмена</string>
     <string name="notification_title">Запись</string>
+    <string name="title_new_audio_note">Новая запись</string>
+
+    <!-- CustomExceptions -->
+    <string name="invalidate_file_name_empty">Введите название</string>
+    <string name="invalidate_file_name_exist">Файл с таким названием существует</string>
+    <string name="invalidate_file_name_error">Ошибка сохранения</string>
+    <string name="welcome">Начните новую аудиозапись</string>
+    <string name="upload_audio_note">Upload Audionote</string>
+    <string name="my_audio_notes">Мои аудиозаметки</string>
 </resources>
