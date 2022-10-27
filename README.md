@@ -48,3 +48,11 @@
 ## Уведомление об успешной загрузке аудиозаметки в документы аккаунта ВКонтакте:
 
 ![Уведомление об успешной загрузке аудиозаметки в документы аккаунта ВКонтакте](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/DownloadToast.png)
+
+Используемые технологии:
+1. Kotlin
+2. Android SDK
+3. Google Architecture Components
+4. MVVM Architecture
+5. MediaPlayer
+6. AudioRecord
