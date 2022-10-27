@@ -1,23 +1,49 @@
-# Проект: «Android приложение для записи аудиозаметок»
-Цель проекта: разработать приложение для ОС Android, которое позволит записывать, прослушивать, вести историю аудиозаметок и синхронизировать их с аккаунтом пользователя ВКонтакте.
+# Android приложение для записи аудиозаметок и синхронихацией с ВКонтакте.
 
-Задачи по проекту:
-1. Понимание задачи и анализ сценариев поведения.
-2. Изучение необходимой документации и подготовка необходимой базы для реализации приложения.
-3. Проектирование приложения.
-4. Создание необходимого дизайна для приложения.
-5. Программная разработка приложения.
-6. Тестирование приложения и внесение необходимых изменений.
-7. Оформление отчета (лендинг, постер, документ-отчет, презентация, видео, промо-ролик)
+## Первый запуск - авторизация через ВКонтакте:
 
-## Участники
-| Учебная группа | Имя пользователя | ФИО |
-| -------------- | ---------------- | --- |
-| 191-361 | @Dmitriy-Tkachenko | Ткаченко Д.А. |
+![Авторизация через ВКонтакте](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/Auth.png)
 
-## Личный вклад участников
-### Ткаченко Д.А.
-Спроектировал, задизайнил и разработал приложение, а так же подготовил документацию в объеме 87 часов.
+## Главный экран:
 
-## Отчет
-[Отчет](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82/%D0%9E%D1%82%D1%87%D0%B5%D1%82.docx?raw=true)
+![Главный экран](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/MainScreen.png)
+
+## Runtime permission на доступ к микрофону:
+
+![Runtime permission на доступ к микрофону](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/RunPerm.png)
+
+## Запись аудиозаметки:
+
+![Запись аудиозаметки](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/Record.png)
+
+## Нотификация о записи:
+
+![Нотификация о записи](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/NotificationRecord.png)
+
+## Сохранение аудиозаметки:
+
+![Сохранение аудиозаметки](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/Save.png)
+
+## Созданная аудиозаметка:
+
+![Созданная аудиозаметка](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/AudioNote.png)
+
+## Набор созданных аудиозаметок:
+
+![Набор созданных аудиозаметок](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/AudioNotes.png)
+
+## Режим прослушивания аудиозаметки:
+
+![Режим прослушивания аудиозаметки](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/Play.png)
+
+## Нотификация о прослушивании:
+
+![Нотификация о прослушивании](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/NotificationPlay.png)
+
+## Удаление аудиозаметки свайпом:
+
+![Удаление аудиозаметки свайпом](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/Delete.png)
+
+## Уведомление об успешной загрузке аудиозаметки в документы аккаунта ВКонтакте:
+
+![Уведомление об успешной загрузке аудиозаметки в документы аккаунта ВКонтакте](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/DownloadToast.png)
