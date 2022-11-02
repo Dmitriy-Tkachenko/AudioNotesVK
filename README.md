@@ -43,7 +43,7 @@
 ## Удаление аудиозаметки свайпом:
 
 ![Удаление аудиозаметки свайпом](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/Delete.png)
-![Уведомление об успешной загрузке аудиозаметки в документы аккаунта ВКонтакте](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/DeleteSuccess.png)
+![Уведомление об успешном удалении аудиозаметки](https://github.com/Dmitriy-Tkachenko/AudioNotesVK/blob/master/readme-images/DeleteSuccess.png)
 
 ## Уведомление об успешной загрузке аудиозаметки в документы аккаунта ВКонтакте:
 
